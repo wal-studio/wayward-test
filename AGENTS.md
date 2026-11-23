@@ -41,3 +41,8 @@ Before any work, read and follow:
 - [Forensic and Verification Policy](docs/FORENSIC_AND_VERIFICATION_POLICY.md)
 
 These documents apply to every task and branch. Do not send progress-only updates and wait; own routine execution, CI/log/artifact inspection, and independent follow-through through verified completion. Preserve all existing project-specific rules and ownership boundaries.
+
+<!-- GLOBAL-DEVELOPMENT-BASELINE:START -->
+
+공통 기준점·브랜치 전파 규정은 [GLOBAL_DEVELOPMENT_BASELINE.md](GLOBAL_DEVELOPMENT_BASELINE.md)를 따른다. 신규 브랜치 생성 시 이 문서를 복사하고 기존 브랜치의 누락을 복구한다.
+<!-- GLOBAL-DEVELOPMENT-BASELINE:END -->
